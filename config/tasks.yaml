@@ -1,0 +1,21 @@
+task_po:
+  description: >
+    Analyse l'idée : {idee_projet}. Produis 3 User Stories.
+  expected_output: >
+    Un backlog Markdown détaillé.
+  agent: product_owner
+
+task_archi:
+  description: >
+    À partir du backlog, définis la structure des dossiers et fichiers.
+  expected_output: >
+    Un plan d'architecture technique détaillé.
+  agent: tech_lead
+
+task_dev:
+  description: >
+    En suivant l'architecture, crée les dossiers nécessaires et écris le code source dans les fichiers appropriés.
+    Utilise tes outils de gestion de fichiers pour réellement créer les fichiers sur le disque.
+  expected_output: >
+    L'application complète installée et prête à être testée sur le serveur.
+  agent: developer
