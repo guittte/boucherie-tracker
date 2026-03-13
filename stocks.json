@@ -1,0 +1,12 @@
+[
+    {"viande": "Boeuf Haché", "quantite_kg": 12.0},
+    {"viande": "Steak de Veau", "quantite_kg": 4.5},
+    {"viande": "Gigot d'Agneau", "quantite_kg": 8.0},
+    {"viande": "Filet de Porc", "quantite_kg": 6.0},
+    {"viande": "Blanc de Poulet", "quantite_kg": 3.2},
+    {"viande": "Cuisse de Canard", "quantite_kg": 7.5},
+    {"viande": "Saucisses Artisanales", "quantite_kg": 9.0},
+    {"viande": "Entrecôte", "quantite_kg": 15.0},
+    {"viande": "Rôti de Dinde", "quantite_kg": 2.8},
+    {"viande": "Foie de Veau", "quantite_kg": 5.1}
+]

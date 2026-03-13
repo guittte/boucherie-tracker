@@ -1,0 +1,17 @@
+dev_task:
+  description: >
+    Implémenter la demande suivante : {user_goal}. 
+    Le projet se trouve ici : {project_path}.
+    Règles strictes : Pas de HTML, pas d'User Story affichée dans l'interface, uniquement du code Streamlit fonctionnel.
+  expected_output: "Le code source mis à jour et fonctionnel."
+
+qa_task:
+  description: >
+    Vérifier le fichier généré par le développeur. 
+    S'assurer qu'il n'y a pas de balises <tr>, <td> ou de texte inutile.
+  expected_output: "Un rapport de test validant la conformité visuelle."
+
+ops_task:
+  description: >
+    Effectuer un git add, commit et push pour le projet {project_name}.
+  expected_output: "Confirmation du push sur le dépôt."

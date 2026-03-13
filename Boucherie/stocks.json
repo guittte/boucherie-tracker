@@ -1,0 +1,12 @@
+[
+  {"viande": "Bœuf Haché", "quantite_kg": 15.0},
+  {"viande": "Entrecôte", "quantite_kg": 7.5},
+  {"viande": "Gigot d'Agneau", "quantite_kg": 4.0},
+  {"viande": "Filet Mignon de Porc", "quantite_kg": 2.0},
+  {"viande": "Cuisse de Poulet", "quantite_kg": 20.0},
+  {"viande": "Saucisses", "quantite_kg": 3.0},
+  {"viande": "Veau Escalope", "quantite_kg": 8.0},
+  {"viande": "Magret de Canard", "quantite_kg": 6.0},
+  {"viande": "Rôti de Porc", "quantite_kg": 10.0},
+  {"viande": "Merguez", "quantite_kg": 1.5}
+]
